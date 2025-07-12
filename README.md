@@ -1,1 +1,1 @@
-# MindReadingPuzzle.cpp
+# Mind Reading Puzzle
